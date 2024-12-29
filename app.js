@@ -81,9 +81,3 @@ app.listen(process.env.PORT || 3000,function(){
     
 })
 
-
-//b23bdef6bcf6590c78c5d819df47b711-us11
-//developer.mailchimp.com ->documentation ->api reference ->list section ->creation ->post ->
-// ec2d4d2383    this the user code/audiance id unique
-//to post it worldwire
-//to to heroku and signup free (no credit)->devcenter.horocu.com(documentation)-> downloacd heroku CLI 
